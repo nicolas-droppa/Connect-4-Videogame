@@ -10,13 +10,19 @@ Welcome to **Connect 4**, a console-based version of the classic two-player conn
 - [🎮 How to Play](#how-to-play)
 - [✨ Features](#features)
 
+---
+
 ## 📝 Introduction
 
 **Connect 4** is a classic two-player board game where players take turns dropping their discs into a vertical grid. The goal is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. The game ends when a player achieves this or when the board is full with no more possible moves.
 
+---
+
 ## 🎲 Gameplay
 
 The game is played on a grid of 6 rows and 7 columns. Each player has a set of discs, and they take turns choosing a column in which to drop their disc. The disc falls to the lowest available space in that column. The game ends when a player manages to connect four of their discs in a line (horizontally, vertically, or diagonally) or when the grid is completely filled without any player achieving the objective, resulting in a draw.
+
+---
 
 ## 💻 Installation
 
@@ -38,6 +44,8 @@ To compile and run **Connect 4**, ensure you have a C++ compiler installed on yo
     ./Connect-4-Videogame
     ```
 
+---
+
 ## 🎮 How to Play
 
 Use the following keys to control the game:
@@ -52,9 +60,13 @@ Use the following keys to control the game:
 
 The goal is to be the first to connect four of your discs in a row, column, or diagonal.
 
+---
+
 ### Example Gameplay
 
 ![Example Gameplay](https://github.com/user-attachments/assets/example_connect4_gameplay.png)
+
+---
 
 ## ✨ Features
 
