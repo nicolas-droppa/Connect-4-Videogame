@@ -64,7 +64,8 @@ The goal is to be the first to connect four of your discs in a row, column, or d
 
 ### Example Gameplay
 
-![Example Gameplay](https://github.com/user-attachments/assets/example_connect4_gameplay.png)
+![image](https://github.com/user-attachments/assets/067fd7c2-cda4-49c1-9993-4a0083e24195)
+![image](https://github.com/user-attachments/assets/c977cd6e-fffc-4cfa-898f-168a66071420)
 
 ---
 
